@@ -45470,7 +45470,7 @@ return P.a6($async$ex,r)}}
 K.kV.prototype={}
 E.LB.prototype={}
 Q.vO.prototype={
-J:function(a,b){var s=null,r=L.ir("KIET Group of Institutions, Ghaziabad",A.ez(s,s,s,s,s,s,s,s,"Courgette",s,s,F.an(b,!1).a.a*0.035,s,s,s,s,!0,s,s,s,s,s,s)),q=F.an(b,!1)
+J:function(a,b){var s=null,r=L.ir("KIET Group of Institutions, Ghaziabad",A.ez(s,s,s,s,s,s,s,s,"SourceSansPro",s,s,F.an(b,!1).a.a*0.035,s,s,s,s,!0,s,s,s,s,s,s)),q=F.an(b,!1)
 return new T.di(C.os,M.iZ(s,T.uC(T.uO(H.d([r,new X.q0(q.gi3(q)===C.dS||F.an(b,!1).a.go5()>1200?F.an(b,!1).a.a*0.03:F.an(b,!1).a.b*0.03,s)],t.fQ),C.hj),s,s),s,s,s,s,s,s,s),s)}}
 F.wz.prototype={
 J:function(a,b){return new S.oK(new F.F5(null),"Shashank",X.a_K(C.ma,C.R,C.ma,X.a_S()),!1,null)}}
@@ -45478,10 +45478,10 @@ F.F5.prototype={
 J:function(a,b){var s=null,r=L.ir("About Me",A.ez(s,s,s,s,s,s,s,s,"Pacifico",s,s,20,s,C.bp,s,s,!0,s,s,s,s,s,s)),q=C.m8.h(0,800)
 return Q.Xf(!0,new M.pE(new E.ni(r,q,!0,new P.Y(1/0,56),s),new F.F6(s),s),!0)}}
 F.F6.prototype={
-J:function(a,b){var s,r,q=null,p="images/sha.png",o="PermanentMarket",n=F.an(b,!1)
+J:function(a,b){var s,r,q=null,p="images/sha.png",o="SourceSansPro",n=F.an(b,!1)
 n=n.gi3(n)===C.dS||F.an(b,!1).a.go5()>1200
 s=t.fQ
-n=n?T.MX(H.d([T.uO(H.d([U.ZF(F.an(b,!1).a.a*0.25,new L.kq(p)),T.jR(q,q,F.an(b,!1).a.b*0.1),L.ir("Shashank Singhal",A.ez(q,q,C.pg,q,q,q,q,q,o,q,q,F.an(b,!1).a.a*0.035,q,q,q,q,!0,q,q,q,q,q,q))],s),C.hj),T.jR(q,q,F.an(b,!1).a.a*0.1),L.ir("A hyper active individual with the\nzeal to learn everything under the\nsun.Expanding my horizons each\nday tojustify my curious personal.\n\nIn search of an inculcating work\nenvironment to build upon my\nprofessional career.",A.ez(q,q,q,q,q,q,q,q,"Lobster",q,q,F.an(b,!1).a.a*0.02,q,q,q,q,!0,q,q,q,q,q,q))],s),C.d3,C.jB,C.dQ):T.uO(H.d([U.ZF(q,new L.kq(p)),T.jR(q,F.an(b,!1).a.b*0.05,q),L.ir("Shashank\nSinghal",A.ez(q,q,C.pg,q,q,q,q,q,o,q,q,F.an(b,!1).a.a*0.15,q,q,q,q,!0,q,q,q,q,q,q)),T.jR(q,F.an(b,!1).a.b*0.05,q),L.ir("A hyper active individual with the zeal to learn everything under the sun.Expanding my horizons each day to justify my curious personal.\n\nIn search of an inculcating work environment to build upon my professional career.",A.ez(q,q,q,q,q,q,q,q,"Lobster",q,q,F.an(b,!1).a.b*0.03,q,q,q,q,!0,q,q,q,q,q,q))],s),C.hj)
+n=n?T.MX(H.d([T.uO(H.d([U.ZF(F.an(b,!1).a.a*0.25,new L.kq(p)),T.jR(q,q,F.an(b,!1).a.b*0.1),L.ir("Shashank Singhal",A.ez(q,q,C.pg,q,q,q,q,q,o,q,q,F.an(b,!1).a.a*0.035,q,q,q,q,!0,q,q,q,q,q,q))],s),C.hj),T.jR(q,q,F.an(b,!1).a.a*0.11),L.ir("A hyper active individual with the\nzeal to learn everything under the\nsun.Expanding my horizons each\nday tojustify my curious personal.\n\nIn search of an inculcating work\nenvironment to build upon my\nprofessional career.",A.ez(q,q,q,q,q,q,q,q,o,q,q,F.an(b,!1).a.a*0.02,q,q,q,q,!0,q,q,q,q,q,q))],s),C.d3,C.jB,C.dQ):T.uO(H.d([U.ZF(q,new L.kq(p)),T.jR(q,F.an(b,!1).a.b*0.05,q),L.ir("Shashank\nSinghal",A.ez(q,q,C.pg,q,q,q,q,q,o,q,q,F.an(b,!1).a.a*0.15,q,q,q,q,!0,q,q,q,q,q,q)),T.jR(q,F.an(b,!1).a.b*0.05,q),L.ir("A hyper active individual with the zeal to learn everything under the sun.Expanding my horizons each day to justify my curious personal.\n\nIn search of an inculcating work environment to build upon my professional career.",A.ez(q,q,q,q,q,q,q,q,o,q,q,F.an(b,!1).a.b*0.03,q,q,q,q,!0,q,q,q,q,q,q))],s),C.hj)
 r=F.an(b,!1)
 return Q.Xf(!0,E.Xh(M.iZ(q,T.uO(H.d([n,new X.q0(r.gi3(r)===C.dS||F.an(b,!1).a.go5()>1200?F.an(b,!1).a.a*0.03:F.an(b,!1).a.b*0.03,q),new Y.ws(q),new Q.vO(q)],s),C.m7),q,q,q,q,q,new V.aS(10,10,10,10),q),C.z),!0)}}
 Y.ws.prototype={
@@ -45497,7 +45497,7 @@ if((n.a>n.b?C.dS:C.pt)!==C.dS){n=F.an(b,!1).a
 n=Math.max(Math.abs(n.a),Math.abs(n.b))>1200}else n=!0
 n=n?F.an(b,!1).a.b*0.25:F.an(b,!1).a.b*0.17
 m=F.an(b,!1).a
-s.push(new T.di(C.os,M.iZ(l,new T.nz(C.b0,l,l,L.ir(q,new A.p(!0,C.k,l,"VampiroOne",l,l,m.a*0.03,C.bp,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l)),l),l,l,new S.dB(C.j,l,l,new K.bP(p,p,p,p),l,l,C.a5),n,l,l,o.a*0.25),l))}return M.iZ(l,E.Xh(T.MX(H.d([h,E.Xh(T.uO(H.d([T.MX(s,C.d3,C.m7,C.dQ)],i),C.jB),C.t)],i),C.d3,C.hj,C.dQ),C.t),C.ma,l,l,k.b*0.5,l,l,j.a)}}
+s.push(new T.di(C.os,M.iZ(l,new T.nz(C.b0,l,l,L.ir(q,new A.p(!0,C.k,l,"SourceSansPro",l,l,m.a*0.03,C.bp,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l)),l),l,l,new S.dB(C.j,l,l,new K.bP(p,p,p,p),l,l,C.a5),n,l,l,o.a*0.25),l))}return M.iZ(l,E.Xh(T.MX(H.d([h,E.Xh(T.uO(H.d([T.MX(s,C.d3,C.m7,C.dQ)],i),C.jB),C.t)],i),C.d3,C.hj,C.dQ),C.t),C.ma,l,l,k.b*0.5,l,l,j.a)}}
 X.q0.prototype={
 J:function(a,b){var s=null,r=this.c
 return T.MX(H.d([new T.di(C.is,R.w5(!1,!0,L.w_(C.uW,C.j,r),s,!0,s,s,s,s,s,s,s,s,s,new X.Pj(),s),s),new T.di(C.is,R.w5(!1,!0,L.w_(C.uX,C.j,r),s,!0,s,s,s,s,s,s,s,s,s,new X.Pk(),s),s),new T.di(C.is,R.w5(!1,!0,L.w_(C.uV,C.j,r),s,!0,s,s,s,s,s,s,s,s,s,new X.Pl(),s),s),new T.di(C.is,R.w5(!1,!0,L.w_(C.uY,C.j,r),s,!0,s,s,s,s,s,s,s,s,s,new X.Pm(),s),s)],t.fQ),C.d3,C.jB,C.dQ)}}

@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3d4ce0d83130831cecc2189ed2c0f7d4",
-"assets/FontManifest.json": "663d1d5bef3ee14f0e26cb8cccab91be",
+  "assets/AssetManifest.json": "a3201ad58967b8a057a75c14b8fb06b1",
+"assets/FontManifest.json": "edc6cfb9caf27c9abea7083c4794b197",
 "assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/fonts/FredokaOne-Regular.ttf": "4a2f2ea45a0bb1abe81b47d0afde4aae",
 "assets/fonts/GochiHand-Regular.ttf": "9b48452cfcc1da9b1f684f991cb3d1e3",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/fonts/Neuton-Regular.ttf": "165ad7183be9563e73c9ef7d26b3dadb",
 "assets/fonts/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/fonts/Satisfy-Regular.ttf": "aaa5880c7a5f7e479e31a4412452d8a9",
+"assets/fonts/SourceSansPro-Regular.ttf": "c1678b46f7dd3f50ceac94ed4e0ad01a",
 "assets/fonts/VampiroOne-Regular.ttf": "f4d0f56448a358ea53529922bc40bc66",
 "assets/images/s.png": "74482fd550b280beb40e54d30e40d72c",
 "assets/images/sh.jpg": "4723dd1f52ee3d86378b80197f195c3c",
@@ -30,9 +31,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "de96d56b97bac0dc8b5ddcccc9062af7",
-"/": "de96d56b97bac0dc8b5ddcccc9062af7",
-"main.dart.js": "2ccf4bf82faefb5044cff845788879a8",
+"index.html": "3f163d1c3ea092dc154a725bbd35d33d",
+"/": "3f163d1c3ea092dc154a725bbd35d33d",
+"main.dart.js": "3c42d6892a78cad319a21912ae664515",
 "manifest.json": "02d4e479daa7df9b514ef434eeab7a9f",
 "version.json": "52ec462d3c3a930c797238515954c156"
 };
